@@ -3,5 +3,4 @@
 ## Shot
 ----------------
 #####let's take a shot
-![github](https://github.com/xujianjlu/My_Macbook_terminal/blob/master/raw/images/example.png "github")
-![github](http://github.com/unicorn.png "github")
+![github](https://raw.github.com/xujianjlu/My_Macbook_terminal/master/raw/images/example.png "github")
